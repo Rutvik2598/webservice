@@ -29,6 +29,8 @@ public class CountryService {
 			hm.put(3, c3);
 			hm.put(4, c4);
 			hm.put(5, c5);
+			hm.put(6, c6);
+			hm.put(7, c7);
 		}
 		
 	}
