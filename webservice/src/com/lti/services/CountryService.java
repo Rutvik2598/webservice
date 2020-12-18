@@ -20,11 +20,11 @@ public class CountryService {
 			Country c2 = new Country(2, "USA");
 			Country c3 = new Country(3, "UK");
 			Country c4 = new Country(4, "Canada");
-			Country c5 = new Country(5, "XYZ");
+			Country c5 = new Country(5, "Bangladesh");
 			Country c6 = new Country(6, "Norway");
 			Country c7 = new Country(7, "Switzerland");
 			Country c8 = new Country(7, "Srilanka");
-			Country c9 = new Country(7, "ABC");
+			Country c9 = new Country(7, "Pakistan");
 			
 			hm.put(1, c1);
 			hm.put(2, c2);
