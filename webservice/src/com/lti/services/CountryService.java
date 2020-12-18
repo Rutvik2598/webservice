@@ -23,6 +23,8 @@ public class CountryService {
 			Country c5 = new Country(5, "Mexico");
 			Country c6 = new Country(6, "Norway");
 			Country c7 = new Country(7, "Switzerland");
+			Country c8 = new Country(7, "Srilanka");
+			Country c9 = new Country(7, "Japan");
 			
 			hm.put(1, c1);
 			hm.put(2, c2);
@@ -31,6 +33,8 @@ public class CountryService {
 			hm.put(5, c5);
 			hm.put(6, c6);
 			hm.put(7, c7);
+			hm.put(8, c8);
+			hm.put(9, c9);
 		}
 		
 	}
